@@ -27,5 +27,4 @@ Future goal: pursue a passion for game development
 🤝 **Connect With Me**
 - [GitHub](https://github.com/Miqu3lla)
 - [LinkedIn](https://www.linkedin.com/in/javier-jaypee-722999383)
-- [Twitter](https://www.facebook.com/jaypee.javier.437653)
 - [Email](mailto:jaypeejavierash@gmail.com)
