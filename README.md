@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @Miqu3lla
-- 👀 I’m interested in playing video games, coding at free times and listening to music
-- 🌱 I’m currently learning web development as i want this skill to be a bonus but i mainly want to learn gamedev after learning web dev
-- 💞️ I’m looking to collaborate on as of now none
-- 📫 How to reach me 
-  Gmail: Jaypeejavierash@gmail.com
-.
+<img src="https://github.com/johndoe.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
 
-<!---
-Miqu3lla/Miqu3lla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Jaypee Javier
+### Front End Web Developer
+
+Has knowledge with JavaScript, Python, Flutter, Dart, HTML, CSS, and C#
+
+Currently learning more about front-end web development
+
+Aspires to become a full-stack developer
+
+Future goal: pursue a passion for game development
+
+🛠️ **Tech Stack**
+- Beginner: `HTML` `CSS` `Dart`
+- Intermediate: `Javascript` `Python` `C#` `Flutter`
+
+🔭 **Featured Projects**
+- [Lalamon](https://github.com/Necookie/lalamon) - a school project we made that is a mobile application as similar to the mcdonalds app and the lalamove app it features working products, an add, edit and remove product, a payment method using Paypal payment API it is made using Dart and Flutter in the front end and firebase, supabase for the backend.
+
+📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Miqu3lla&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miqu3lla&theme=dark" alt="GitHub Streak" />
+</p>
+
+🤝 **Connect With Me**
+- [GitHub](https://github.com/Miqu3lla)
+- [LinkedIn](https://www.linkedin.com/in/javier-jaypee-722999383)
+- [Twitter](https://www.facebook.com/jaypee.javier.437653)
+- [Email](mailto:jaypeejavierash@gmail.com)
