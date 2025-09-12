@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaypee Javier</h1>
+<h1 align="center">Hi 👋, I'm Miquella</h1>
 <h3 align="center">
   I’m passionate about coding and always looking for ways to grow my skills.  
   Outside of tech, I enjoy playing guitar, which has taught me creativity and patience—qualities I bring into programming.  
