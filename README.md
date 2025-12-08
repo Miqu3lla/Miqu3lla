@@ -38,7 +38,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/javier-jaypee-722999383" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
 
