@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Vue, tailwind, React, and Node.js**
+- 🌱 Currently learning **MongoDB, express, and React**
 - 👨‍💻 Check out my projects here: [My Portfolio](https://github.com/Miqu3lla/My-Portfolio.git)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/javier-jaypee-722999383)
 
