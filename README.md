@@ -11,8 +11,8 @@
 
 ### 🚀 About Me
 
-I'm passionate about crafting elegant web solutions and constantly pushing my boundaries to learn new technologies.  
-My background in music (guitar) has taught me creativity, patience, and the importance of practice—qualities I bring into every line of code I write.
+Always learning new things
+
 
 </div>
 
