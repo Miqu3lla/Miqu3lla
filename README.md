@@ -76,11 +76,7 @@ Always learning new things
 
 ---
 
-### 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miqu3lla&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -97,14 +93,14 @@ Always learning new things
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-jaypee-722999383)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Miqu3lla/My-Portfolio.git)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.miqx.dev)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>"Code is like music – both require creativity, practice, and passion to master."</i>
+ 
   
   <br><br>
   
