@@ -1,5 +1,9 @@
-<h1 align="center">👋 Hi, I'm Miquella</h1>
-<h3 align="center">Full-Stack Web Developer | Creative Problem Solver | Music Enthusiast</h3>
+<div align="center">
+
+# 🎵 ＭＩＱＵＥＬＬＡ 🚀
+### Passionate onto learning new technologies
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miqu3lla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
