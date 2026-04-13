@@ -25,7 +25,7 @@ Always learning new things
 ### 💼 What I'm Up To
 
 - 🔭 Building full-stack applications with the **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- 🌱 Currently learning **Next.js** to enhance my React development skills
+- 🌱 Currently learning **Postgrez, Drizzle, and React Native Expo** to enhance my React development skills and mobile(for thesis purposes)
 - 🎸 Musician at heart – I play guitar and bring that creative energy to my code
 - 💡 Always exploring new technologies and challenging myself with complex problems
 - 🤝 Open to collaborating on exciting web development projects
