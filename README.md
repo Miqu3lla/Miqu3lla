@@ -15,8 +15,7 @@
 
 ### 🚀 About Me
 
-Always learning new things
-
+Always learning new things and building modern digital experiences.
 
 </div>
 
@@ -24,12 +23,11 @@ Always learning new things
 
 ### 💼 What I'm Up To
 
-- 🔭 Building full-stack applications with the **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- 🌱 Currently learning **Postgrez, Drizzle, and React Native Expo** to enhance my React development skills and mobile(for thesis purposes)
-- 🎸 Musician at heart – I play guitar and bring that creative energy to my code
-- 💡 Always exploring new technologies and challenging myself with complex problems
-- 🤝 Open to collaborating on exciting web development projects
-- 👨‍💻 Check out my work: [My Portfolio](https://github.com/Miqu3lla/My-Portfolio.git)
+- 🔭 Building full-stack applications with **React, Node.js, and PostgreSQL**
+- 🌱 Mastering **Expo, React Native, and Drizzle ORM** for high-performance mobile development and thesis projects
+- 💡 Exploring specialized computer vision and motion tracking integrations
+- 🤝 Open to collaborating on exciting web and mobile development projects
+- 👨‍💻 Check out my work: [My Portfolio](https://www.miqx.dev)
 
 ---
 
@@ -41,27 +39,29 @@ Always learning new things
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Backend
+#### Mobile
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### Backend & ORM
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Tools & More
+#### Tools & OS
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
 </div>
 
@@ -77,10 +77,6 @@ Always learning new things
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=miqu3lla&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
-
----
-
-
 
 ---
 
@@ -104,9 +100,7 @@ Always learning new things
 ---
 
 <div align="center">
- 
   
-  <br><br>
-  
+  <br>
   💬 **Feel free to reach out for collaborations or just a friendly chat!**
 </div>
