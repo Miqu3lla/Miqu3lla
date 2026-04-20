@@ -24,8 +24,7 @@ Always learning new things and building modern digital experiences.
 ### 💼 What I'm Up To
 
 - 🔭 Building full-stack applications with **React, Node.js, and PostgreSQL**
-- 🌱 Mastering **Expo, React Native, and Drizzle ORM** for high-performance mobile development and thesis projects
-- 💡 Exploring specialized computer vision and motion tracking integrations
+- 🌱 Currently Learning **Expo, React Native, and Drizzle ORM** for high-performance mobile development and thesis projects
 - 🤝 Open to collaborating on exciting web and mobile development projects
 - 👨‍💻 Check out my work: [My Portfolio](https://www.miqx.dev)
 
