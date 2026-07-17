@@ -27,7 +27,7 @@ Always learning new things and building modern digital experiences.
 -  Currently Learning **Expo, React Native, and Drizzle ORM** for high-performance mobile development and thesis projects
 - Currently doing TheraMotion, A thesis project for Stroke Patients(Coming soon)
 - Open to collaborating on exciting web and mobile development projects
-- Check out my work: [My Portfolio](https://www.miqx.dev)
+- Check out my work: [My Portfolio](https://portfolio-swart-nine-40.vercel.app)
 
 ---
 
