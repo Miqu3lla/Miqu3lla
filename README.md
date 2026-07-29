@@ -1,106 +1,61 @@
-<div align="center">
-  
-# ＭＩＱＵＥＬＬＡ 
-### Passionate onto learning new technologies
-
-</div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miqu3lla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="./banner.svg" width="100%" alt="Miquella — Full-stack developer" />
 </p>
-
----
-
-<div align="center">
-
-### 🚀 About Me
-
-Always learning new things and building modern digital experiences.
-
-</div>
-
----
-
-### 💼 What I'm Up To
-
--  Building full-stack applications with **React, Node.js, and PostgreSQL**
-- 🔭 Currently learning **backend system architecture** — rate limiting, middleware design, and API architecture
-- 🩺 Working on **TheraMotion**, a thesis app for stroke rehab patients (stay tuned!)
-- Open to collaborating on exciting web and mobile development projects
-- Check out my work: [My Portfolio](https://portfolio-swart-nine-40.vercel.app)
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Mobile
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-#### Backend & ORM
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-#### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Tools & OS
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=miqu3lla&show_icons=true&theme=radical&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=miqu3lla&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=miqu3lla&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miqu3lla&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
-### 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-jaypee-722999383)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.miqx.dev)
-
-</div>
-
----
-
-<div align="center">
-  
-  <br>
-  💬 **Feel free to reach out for collaborations or just a friendly chat!**
-</div>
+<p align="center">
+  <a href="https://www.miqx.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=58A6FF" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/javier-jaypee-722999383"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=miqu3lla&label=Views&color=1f6feb&style=flat-square" alt="Profile views" />
+</p>
+<br>
+Computer Science student building full-stack web and mobile applications. Currently focused on backend system architecture — rate limiting, middleware design, and API structure.
+ 
+<br>
+### Currently
+ 
+**TheraMotion** — a stroke rehabilitation app built as an undergraduate thesis. React Native and Expo on the front end, FastAPI and PostgreSQL behind it, with a pose-estimation pipeline that scores exercise form in real time.
+ 
+Open to collaborating on web and mobile projects.
+ 
+<br>
+### Stack
+ 
+**Languages**
+ 
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=58A6FF)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=58A6FF)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=58A6FF)
+ 
+**Frontend & Mobile**
+ 
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=58A6FF)
+![React Native](https://img.shields.io/badge/React%20Native-0D1117?style=flat-square&logo=react&logoColor=58A6FF)
+![Expo](https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=58A6FF)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=58A6FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=58A6FF)
+ 
+**Backend & Data**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=58A6FF)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=58A6FF)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=58A6FF)
+![Drizzle](https://img.shields.io/badge/Drizzle-0D1117?style=flat-square&logo=drizzle&logoColor=58A6FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=58A6FF)
+ 
+**Environment**
+ 
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-0D1117?style=flat-square&logo=archlinux&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=58A6FF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=58A6FF)
+ 
+<br>
+### Activity
+ 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=miqu3lla&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8FA9C9&ring_color=2F81F7" alt="GitHub stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=miqu3lla&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&title_color=58A6FF&text_color=8FA9C9" alt="Top languages" />
+</p>
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=miqu3lla&bg_color=0D1117&color=8FA9C9&line=2F81F7&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true" alt="Contribution graph" />
+</p>
