@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3>Architecting robust backend systems and building seamless full-stack experiences.</h3>
-  <p>Computer Science student passionate about <b>system architecture, rate limiting, middleware design,</b> and <b>scalable APIs</b>.</p>
+  <p>Computer Science student passionate about <b>Learning new things </b>.</p>
 </div>
 
 <br>
@@ -25,28 +25,47 @@
 
 *Always open to collaborating on impactful web and mobile projects!*
 
+
+
 <br>
 
 ## 💻 Tech Stack
 
+### 🎨 Frontend & Mobile
 <table align="center">
   <tr>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /><br><sub>TypeScript</sub></td>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" /><br><sub>JavaScript</sub></td>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" /><br><sub>React</sub></td>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" alt="Expo" /><br><sub>Expo</sub></td>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" /><br><sub>Flutter</sub></td>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" /><br><sub>Tailwind</sub></td>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" /><br><sub>HTML5</sub></td>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" /><br><br><sub>HTML5</sub></td>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" /><br><br><sub>CSS3</sub></td>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /><br><br><sub>React</sub></td>
+    <td align="center" width="90"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" alt="Expo" /><br><br><sub>Expo</sub></td>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" /><br><br><sub>Flutter</sub></td>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /><br><br><sub>Tailwind</sub></td>
   </tr>
+</table>
+
+### ⚙️ Backend & API
+<table align="center">
   <tr>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" /><br><sub>CSS3</sub></td>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" /><br><sub>Node.js</sub></td>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" /><br><sub>Express</sub></td>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" /><br><sub>Flask</sub></td>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /><br><sub>PostgreSQL</sub></td>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" /><br><sub>MongoDB</sub></td>
-    <td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /><br><sub>Git</sub></td>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /><br><br><sub>Node.js</sub></td>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" /><br><br><sub>Express</sub></td>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" /><br><br><sub>Flask</sub></td>
+  </tr>
+</table>
+
+### 🗄️ Databases
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /><br><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /><br><br><sub>MongoDB</sub></td>
+  </tr>
+</table>
+
+### 🛠️ Languages & Tools
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /><br><br><sub>TypeScript</sub></td>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /><br><br><sub>JavaScript</sub></td>
+    <td align="center" width="90"><img height="48" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /><br><br><sub>Git</sub></td>
   </tr>
 </table>
 
