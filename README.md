@@ -17,12 +17,16 @@
 
 <br>
 
-## 🚀 Currently Building
-
-**TheraMotion** — An innovative stroke rehabilitation application developed for my undergraduate thesis. 
-* **The Stack:** React Native & Expo (Frontend), FastAPI & PostgreSQL (Backend).
-* **The Magic:** Features a real-time pose-estimation pipeline that evaluates and scores exercise form on the fly to aid in physical therapy.
-
+## 🌱 Things I'm Currently Doing
+ 
+**Building TheraMotion** — my undergraduate thesis: a stroke rehabilitation app with a real-time pose-estimation pipeline (MediaPipe BlazePose, LSTM exercise-form classifier, Random Forest intensity recommender) on React Native / Expo + FastAPI + Supabase, plus a companion PT-facing web dashboard in React, TypeScript, Tailwind, and Zustand.
+ 
+**Building Forecasty** — a smart calendar web app that plans around weather, traffic, and personal energy patterns with AI-powered scheduling, on React/TypeScript + Express + Supabase, with Redis-backed rate limiting and Google Maps/Gemini integrations.
+ 
+**Building LifeHub** — a personal PERN-stack monorepo where I'm going deep on backend fundamentals: rate limiting (fixed window, sliding window, token bucket), request validation with Zod, and auth with BetterAuth.
+ 
+**Exploring system architecture** — understanding *why* before reaching for the library: implementing rate limiters from scratch (fixed window, sliding window, token bucket), writing request-validation middleware with Zod, and using Redis for caching and shared state, all through hands-on mentor-style sessions on LifeHub.
+ 
 *Always open to collaborating on impactful web and mobile projects!*
 
 
