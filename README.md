@@ -32,7 +32,7 @@
 
 **Building Cosphere** — a mobile social and community platform focused on creating safer and more meaningful online interactions. It includes user onboarding and profiles, content feeds, posts and discussions, feedback requests, discovery, reporting, and moderation workflows, backed by a structured API architecture and **PostgreSQL**.
 
-**Building LifeHub** — a personal **PERN-stack monorepo** that I use as a playground for backend engineering. I'm implementing authentication with **BetterAuth**, schema validation with **Zod**, PostgreSQL-backed services, Redis-based caching and rate limiting, and reusable backend architecture instead of relying entirely on abstractions.
+**Deploying LifeHub** — a personal **PERN-stack monorepo** that I use as a playground for backend engineering. I'm implementing authentication with **BetterAuth**, schema validation with **Zod**, PostgreSQL-backed services, Redis-based caching and rate limiting, and reusable backend architecture instead of relying entirely on abstractions.
 
 **Learning System Design** — focusing on how systems behave as they grow rather than only learning frameworks. I'm currently exploring **caching strategies, distributed state, rate limiting, database indexing, queues, horizontal scaling, load balancing, API design, fault tolerance, observability, and consistency trade-offs**, while implementing smaller versions of these concepts inside my own projects.
 
