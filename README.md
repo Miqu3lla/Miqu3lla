@@ -30,7 +30,7 @@
 
 **Building TheraMotion** — my undergraduate thesis: an AI-assisted stroke rehabilitation platform with real-time pose estimation using **MediaPipe BlazePose**, an **LSTM exercise-form classifier**, and a **Random Forest intensity recommender**. The system includes a **React Native / Expo** mobile application, a **FastAPI** ML backend, **Supabase**, and a PT-facing web dashboard built with **React, TypeScript, Tailwind CSS, and Zustand**.
 
-**Building Cosphere** — a mobile social and community platform focused on creating safer and more meaningful online interactions. It includes user onboarding and profiles, content feeds, posts and discussions, feedback requests, discovery, reporting, and moderation workflows, backed by a structured API architecture and **PostgreSQL**.
+**Building Cospheria** — a mobile social and community platform focused on creating safer and more meaningful online interactions. It includes user onboarding and profiles, content feeds, posts and discussions, feedback requests, discovery, reporting, and moderation workflows, backed by a structured API architecture and **PostgreSQL**.
 
 **Deploying LifeHub** — a personal **PERN-stack monorepo** that I use as a playground for backend engineering. I'm implementing authentication with **BetterAuth**, schema validation with **Zod**, PostgreSQL-backed services, Redis-based caching and rate limiting, and reusable backend architecture instead of relying entirely on abstractions.
 
