@@ -17,10 +17,10 @@
 <br>
 
 <div align="center">
-  <h3>Building scalable systems and seamless full-stack experiences.</h3>
+  <h3>Building scalable systems and full-stack experiences.</h3>
   <p>
     Computer Science student focused on full-stack development, backend engineering,
-    and continuously learning how systems work beyond the framework.
+    and continuously learning things that i find interesting.
   </p>
 </div>
 
@@ -34,7 +34,7 @@
 
 **Deploying LifeHub** — a personal **PERN-stack monorepo** that I use as a playground for backend engineering. I'm implementing authentication with **BetterAuth**, schema validation with **Zod**, PostgreSQL-backed services, Redis-based caching and rate limiting, and reusable backend architecture instead of relying entirely on abstractions.
 
-**Learning System Design** — focusing on how systems behave as they grow rather than only learning frameworks. I'm currently exploring **caching strategies, distributed state, rate limiting, database indexing, queues, horizontal scaling, load balancing, API design, fault tolerance, observability, and consistency trade-offs**, while implementing smaller versions of these concepts inside my own projects.
+**Learning System Design** — focusing on how systems behave as they grow rather than only learning frameworks. I'm currently exploring **caching strategies, distributed state, rate limiting, database indexing, queues, scaling, load balancing, API design, observability, and consistency trade-offs**, while implementing smaller versions of these concepts inside my own projects.
 
 > I try to understand **why a system is designed a certain way** before reaching for another library or managed service.
 
