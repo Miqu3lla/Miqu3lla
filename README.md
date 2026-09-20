@@ -2,6 +2,7 @@
   <img src="./banner.svg" width="100%" alt="Miquella — Full-stack developer" />
 </p>
 
+
 <p align="center">
   <a href="https://portfolio-swart-nine-40.vercel.app">
     <img height="32" src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=58A6FF" alt="Portfolio" />
