@@ -27,6 +27,7 @@
 
 <br>
 
+
 ## 🌱 Things I'm Currently Doing
 
 **Building TheraMotion** — my undergraduate thesis: an AI-assisted stroke rehabilitation platform with real-time pose estimation using **MediaPipe BlazePose**, an **LSTM exercise-form classifier**, and a **Random Forest intensity recommender**. The system includes a **React Native / Expo** mobile application, a **FastAPI** ML backend, **Supabase**, and a PT-facing web dashboard built with **React, TypeScript, Tailwind CSS, and Zustand**.
